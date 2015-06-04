@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	font-family: "Tw Cen MT";
+	color: white;
+	background-color: gray;
+	font-size: 18px;
+
+}
+
+h1 {
+	color: white;
+	text-transform: uppercase;
+	color: #e2edff;
+	font-family: 'Quando', serif;
+}
+
+hr {
+	width: 300px;
+}
+
+#slogan {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 20px;
+	color: #e2edff;
+	font-family: 'Quando', serif;
+	font-variant: small-caps;
+
+}
+
+p {
+	line-height: 1.25em;
+	margin: 3em;
+}
+
+ul {
+	list-style-type: none;
+}
